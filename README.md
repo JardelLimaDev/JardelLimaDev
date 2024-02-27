@@ -17,5 +17,5 @@ Me formei em Analise e desenvolvimento de sistemas e estou migrando de carreira,
     <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />            
 </div>
 
-### Você podem me encontrar no LinkedIn 🌍
+### Você pode me encontrar no LinkedIn 🌍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardel-lima-/)
